@@ -5,9 +5,12 @@
 
 ## 使用说明:
 1.通过别的下载器将固件烧录进去。烧录成功后插入电脑能检测到stlink设备。   
-2.打开stm32 ST-Link Utility.选择 ST-Link -> Firmware update 刷路最新固件。(这里通过usb更新固件,并非通过别的下载器更新)。
-3.完毕。
+2.打开stm32 ST-Link Utility.选择 ST-Link -> Firmware update 刷路最新固件。(这里通过usb更新固件,并非通过别的下载器更新)。    
+3.完毕。   
 
+## 效果图   
+![avatar](./1.png)   
+![avatar](./2.png)   
 
 ## 友情广告
 PCB设计推荐软件Kicad，功能强大，开源免费,免除律师函警告。       
